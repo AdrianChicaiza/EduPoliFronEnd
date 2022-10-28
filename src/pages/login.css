@@ -1,0 +1,18 @@
+/* * {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 4rem;
+    text-align: center;
+    background-color: aqua;
+  } */
+
+:root{
+  /* background: rgb(245,80,62);
+background: linear-gradient(90deg, rgba(245,80,62,1) 0%, rgba(242,99,84,1) 36%, rgba(189,189,189,1) 49%, rgba(44,163,219,1) 64%, rgba(60,192,254,1) 100%); */
+ background: gray;
+ /* padding: 1rem; */
+ margin: 0 auto;
+ height: 100%;
+ 
+}
